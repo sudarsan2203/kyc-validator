@@ -1,0 +1,1 @@
+"""KYC Format Validator API."""
