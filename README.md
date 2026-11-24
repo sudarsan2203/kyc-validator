@@ -1,6 +1,6 @@
 # KYC Format Validator API
 
-![CI](https://github.com/YOUR_USERNAME/kyc-validator/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/sudarsan2203/kyc-validator/actions/workflows/ci.yml/badge.svg)
 
 A REST API that checks whether Indian ID numbers are well-formed: **PAN, Aadhaar, GSTIN and IFSC**.
 
@@ -26,7 +26,7 @@ Built with FastAPI, PostgreSQL, SQLAlchemy, pytest and Docker.
 You need Docker.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/kyc-validator.git
+git clone https://github.com/sudarsan2203/kyc-validator.git
 cd kyc-validator
 docker compose up --build
 ```
